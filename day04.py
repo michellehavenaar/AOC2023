@@ -80,13 +80,6 @@ def main():
 
 
 
-
-
-
-
-        pass
-
-
     result_puzzle1 = puzzle1(scratchcards)
     result_puzzle2 = puzzle2(scratchcards)
 
